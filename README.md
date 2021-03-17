@@ -1,1 +1,1 @@
-# js-stopwatch
+JavaScript Stopwatch with scss 
